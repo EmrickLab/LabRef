@@ -1,4 +1,4 @@
-<img src="https://github.com/EmrickLab/LabRef/assets/146890454/311ddbc7-1cbd-48f2-a889-d26fff502093" align="right" vspace = "0" width="600">
+<img src="https://github.com/EmrickLab/LabRef/assets/146890454/311ddbc7-1cbd-48f2-a889-d26fff502093" align="right" vspace = "0" width="400">
 
 # LabRef 
 
