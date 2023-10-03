@@ -5,11 +5,7 @@
 [![Licence: MIT](https://img.shields.io/github/license/brian1000/first-box)](https://github.com/brian1000/first-box/blob/master/LICENSE)
 [![repo size](https://img.shields.io/github/repo-size/brian1000/first-box)](https://github.com/brian1000/first-box/)
 
-This repo serves as a central hub of tutorials for image processing and data analysis in Python &amp; ImageJ, with applications for the life sciences.
-
-  - image & video processing
-  - basic ImageJ utilities
-  - data analysis
+Neuroscience research often involves optical microscopy and behavioral videography. Here, we present typical workflows & scripts for analyzing visual data that is used at the Emrick Lab. The scripts are presented as an adaptable reference to enable researchers to harness powerful Python packages and ImageJ libraries to analyze their own data. 
 
 ## Quickstart
 
